@@ -1,7 +1,7 @@
 # mnist_conv
 Basic "Hello World" convolutional neural network. 
 
-Using the standard MNIST clothing dataset, achieve 99.8% accuracry in objection recognition. 
+Using the standard MNIST clothing dataset, achieve 99.8% accuracy in objection recognition. 
 
 ConvNet:
   1. 2D (relu-activated) conv layer followed by max pooling
